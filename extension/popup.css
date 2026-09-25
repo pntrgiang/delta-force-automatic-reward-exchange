@@ -200,7 +200,7 @@ output { font-variant-numeric: tabular-nums; }
 .stats .invalid b { color: var(--warn); }
 .stats .failed b { color: var(--danger); }
 
-.log-card { padding-bottom: 6px; }
+.log-card { padding-bottom: 6px; margin-bottom: 0; }
 .log {
   margin: 0;
   padding: 0;
@@ -226,5 +226,3 @@ output { font-variant-numeric: tabular-nums; }
 .log .invalid, .log .warn { border-left-color: var(--warn); }
 .log .error, .log .network, .log .session { border-left-color: var(--danger); }
 .log-empty { margin: 4px 0; font-size: 12px; }
-
-.foot { color: var(--muted); font-size: 11px; text-align: center; }
