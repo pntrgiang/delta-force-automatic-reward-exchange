@@ -2,7 +2,7 @@
 
 ## cài đặt
 
-1. mở `chrome://extensions` (cốc cốc: `coccoc://extensions`, edge: `edge://extensions`).
+1. mở `chrome://extensions`.
 2. bật **chế độ dành cho nhà phát triển** (developer mode).
 3. bấm **tải tiện ích đã giải nén** (load unpacked) và chọn thư mục `extension`.
 4. ghim biểu tượng extension lên thanh công cụ.
