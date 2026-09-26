@@ -21,4 +21,7 @@ các nút khác:
 - **sao chép kết quả**: dán được vào excel hoặc google sheets.
 - **làm mới**: xóa tiến trình cũ để nhập danh sách mới.
 
-lần đầu nên thử với 3–5 code. nếu trang bị tải lại hoặc hết phiên đăng nhập, extension tự tạm dừng: đăng nhập lại rồi bấm **tiếp tục**.
+
+## danh sách code đã xác minh
+
+xem tại [`codes/README.md`](codes/README.md) — bấm nút copy ở mỗi khối code rồi dán thẳng vào extension.
