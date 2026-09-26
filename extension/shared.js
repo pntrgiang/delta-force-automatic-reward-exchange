@@ -14,7 +14,7 @@
   const HOOK_PING_EVENT = 'dfr:hook-ping';
 
   // Thời gian chờ giữa 2 code (ms). Không cho thấp hơn 3 giây để không spam máy chủ Garena.
-  const DELAY = Object.freeze({ min: 3000, max: 10000, step: 500, default: 5000 });
+  const DELAY = Object.freeze({ min: 3000, max: 10000, step: 500, default: 6000 });
 
   const MAX_ATTEMPTS = 3; // số lần thử tối đa cho một code khi gặp lỗi mạng
   const MAX_NETWORK_STREAK = 5; // lỗi mạng liên tiếp bấy nhiêu lần thì tự tạm dừng

@@ -46,7 +46,7 @@ test('giới hạn thời gian chờ trong khoảng 3–10 giây', () => {
   assert.equal(clampDelay(0), 3000);
   assert.equal(clampDelay(4200), 4000);
   assert.equal(clampDelay(99999), 10000);
-  assert.equal(clampDelay('abc'), 5000);
+  assert.equal(clampDelay('abc'), 6000);
 });
 
 test('diễn giải mã phản hồi của máy chủ', () => {

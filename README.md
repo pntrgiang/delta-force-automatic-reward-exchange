@@ -11,7 +11,7 @@
 
 1. mở <https://redeem.df.garena.sg/vi/cdkgarena.html> và đăng nhập.
 2. bấm biểu tượng extension, dán danh sách code (cách nhau bằng xuống dòng, dấu cách, dấu phẩy… đều được).
-3. chọn thời gian chờ (khuyến nghị 5 giây) rồi bấm **bắt đầu**.
+3. chọn thời gian chờ (khuyến nghị 6 giây) rồi bấm **bắt đầu**.
 4. theo dõi nhật ký. có thể đóng popup, nhưng giữ tab đổi quà mở cho tới khi xong.
 
 các nút khác:
