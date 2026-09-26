@@ -10,3 +10,6 @@ node_modules/
 
 # danh sách code cá nhân: không đưa lên git
 code-*.txt
+
+# ảnh chụp danh sách code
+imgs/
